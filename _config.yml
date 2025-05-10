@@ -1,0 +1,13 @@
+# Configuração mínima para GitHub Pages
+title: Kodi Stats Tracker
+description: Contador de acessos para addon Kodi
+theme: jekyll-theme-minimal
+
+# Permite arquivos JSON e outros tipos
+include:
+  - ".htaccess"
+  - "*.json"
+  - "*.xml"
+
+# Desativa o Jekyll (importante para arquivos puros)
+plugins: []
